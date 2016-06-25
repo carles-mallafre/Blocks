@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">283794690935</string>
+    <string name="achievement_1">CgkI96btm6EIEAIQAQ</string>
+    <string name="achievement_2">CgkI96btm6EIEAIQAg</string>
+    <string name="achievement_3">CgkI96btm6EIEAIQAw</string>
+    <string name="achievement_4">CgkI96btm6EIEAIQBA</string>
+    <string name="achievement_5">CgkI96btm6EIEAIQBQ</string>
+    <string name="leaderboard_1">CgkI96btm6EIEAIQBg</string>
+    
+    <!-- debug benderapps
+    <string name="achievement_1">CgkImpjYvNkcEAIQAQ</string>
+    <string name="achievement_2">CgkImpjYvNkcEAIQAg</string>
+    <string name="achievement_3">CgkImpjYvNkcEAIQAw</string>
+    <string name="achievement_4">CgkImpjYvNkcEAIQBA</string>
+    <string name="achievement_5">CgkImpjYvNkcEAIQBQ</string>
+    <string name="leaderboard_1">CgkImpjYvNkcEAIQBg</string>
+    <string name="leaderboard_2">CgkImpjYvNkcEAIQBw</string>
+    
+    -->
+</resources>

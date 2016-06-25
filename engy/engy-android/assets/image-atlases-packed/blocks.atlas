@@ -1,0 +1,40 @@
+
+blocks.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+big_horizontal
+  rotate: false
+  xy: 1, 141
+  size: 210, 70
+  orig: 210, 70
+  offset: 0, 0
+  index: -1
+red_block
+  rotate: false
+  xy: 1, 69
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+small_horizontal
+  rotate: false
+  xy: 213, 141
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+big_vertical
+  rotate: false
+  xy: 355, 1
+  size: 70, 210
+  orig: 70, 210
+  offset: 0, 0
+  index: -1
+small_vertical
+  rotate: false
+  xy: 427, 71
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
